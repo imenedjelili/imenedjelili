@@ -17,6 +17,7 @@ NLP, security, and real-world deployment.
 - Ex-intern: Bomare Company · Sonatrach · Thynk Tech
 
 **Find me**
+
 Portfolio: imene-djelili.netlify.app
 
 LinkedIn: [https://www.linkedin.com/in/imene-djelili-741373319]
