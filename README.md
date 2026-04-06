@@ -18,5 +18,7 @@ NLP, security, and real-world deployment.
 
 **Find me**
 Portfolio: imene-djelili.netlify.app
+
 LinkedIn: [https://www.linkedin.com/in/imene-djelili-741373319]
+
 Email: fatma.imene.djelili@ensia.edu.dz
