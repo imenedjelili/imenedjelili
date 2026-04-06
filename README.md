@@ -12,7 +12,7 @@ NLP, security, and real-world deployment.
 - Mobile apps with Flutter + BLoC architecture
 
 **Currently**
-- BSc in AI @ ENSIA, Algiers (expected 2026)
+- BSc in AI @ ENSIA, Algiers (expected 2027)
 - Ex-intern: Bomare Company · Sonatrach · Thynk Tech
 
 **Find me**
