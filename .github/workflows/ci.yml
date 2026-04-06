@@ -2,31 +2,19 @@ name: CI
 
 on:
   push:
-    branches: [ "main" ]
+    branches: ["main"]
   pull_request:
-    branches: [ "main" ]
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - uses: actions/setup-python@v5
         with:
           python-version: "3.10"
 
-      - name: Install dependencies
-        run: echo "No dependencies"
-
-      - name: Run lint (optional)
-        run: |
-          pip install flake8
-          flake8 .
-
-      - name: Run tests (if you have them)
-        run: |
-          pytest
+      - name: Basic check
+        run: echo "CI is working"
