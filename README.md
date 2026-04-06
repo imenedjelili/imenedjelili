@@ -7,8 +7,8 @@ NLP, security, and real-world deployment.
 
 **What I work on**
 - Production AI systems (Flask · React · Supabase · Sentence-Transformers)
-- Predictive ML for industrial data (LSTM · Random Forest · 97.7% accuracy)
-- Cybersecurity tooling (network honeypots · Wireshark · ethical hacking)
+- Predictive ML for industrial data (LSTM · Random Forest)
+- Cybersecurity tooling (network honeypots · Wireshark)
 - Mobile apps with Flutter + BLoC architecture
 
 **Currently**
