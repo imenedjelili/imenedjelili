@@ -1,4 +1,4 @@
-![CI](https://github.com/YOUR_USERNAME/YOUR_REPO/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/imenedjelili/imenedjelili/actions/workflows/ci.yml/badge.svg)
 ### Hi, I'm Imene Fatma Djelili
 
 AI Engineer · ML · Cybersecurity · Full-Stack
