@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi, I'm Imene Fatma Djelili
 
-<!--
-**imenedjelili/imenedjelili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer · ML · Cybersecurity · Full-Stack
 
-Here are some ideas to get you started:
+Currently building AI-powered platforms at the intersection of
+NLP, security, and real-world deployment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I work on**
+- Production AI systems (Flask · React · Supabase · Sentence-Transformers)
+- Predictive ML for industrial data (LSTM · Random Forest · 97.7% accuracy)
+- Cybersecurity tooling (network honeypots · Wireshark · ethical hacking)
+- Mobile apps with Flutter + BLoC architecture
+
+**Currently**
+- BSc in AI @ ENSIA, Algiers (expected 2026)
+- Ex-intern: Bomare Company · Sonatrach · Thynk Tech
+
+**Find me**
+Portfolio: imene-djelili.netlify.app
+LinkedIn: [https://www.linkedin.com/in/imene-djelili-741373319]
+Email: fatma.imene.djelili@ensia.edu.dz
